@@ -4,3 +4,5 @@
 teach you new skills </h2>
 <h2> Glad to see you here always remain focus </h2>
 <h1> Good job Patrice on learning Devops </h1>
+<h1> Remenber that it is not about how much experince you have, but about how much effort you are putting in now. </h1>
+<h1> Not matter how far you go, always rememeber that it is because of the glory of the almightly GOD </h1>
