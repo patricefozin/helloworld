@@ -7,3 +7,4 @@ teach you new skills </h2>
 <h1> Remenber that it is not about how much experince you have, but about how much effort you are putting in now. </h1>
 <h1> Not matter how far you go, always rememeber that it is because of the glory of the almightly GOD </h1>
 <h1> yoohoooo!!!! You were able to automate deployment on docker host using Ansible. This was done using two playbooks </h1>
+<h1> Buildding the image is done from the localhost, not the target server </h1>
